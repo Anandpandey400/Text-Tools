@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Text-Tools/static/css/main.1fc7ce8f.css",
+    "main.js": "/Text-Tools/static/js/main.64de6827.js",
+    "index.html": "/Text-Tools/index.html",
+    "main.1fc7ce8f.css.map": "/Text-Tools/static/css/main.1fc7ce8f.css.map",
+    "main.64de6827.js.map": "/Text-Tools/static/js/main.64de6827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fc7ce8f.css",
+    "static/js/main.64de6827.js"
+  ]
+}
